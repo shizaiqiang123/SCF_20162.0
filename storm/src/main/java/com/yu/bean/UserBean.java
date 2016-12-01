@@ -7,7 +7,7 @@ public class UserBean {
 
     private String pwd;
 
-    private String role;
+    private String role; 
 
     public Integer getId() {
         return id;
